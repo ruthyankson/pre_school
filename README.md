@@ -2,8 +2,8 @@
 This is a website for a pre-school.
 
 ### App Color Palette
-Dominant: 
-First complementary:
+Dominant:  
+First complementary:  
 Second complementary: #ffffff / #000000
 
 ### App Folders and Their Descriptions
