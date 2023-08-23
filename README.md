@@ -17,9 +17,15 @@ Second complementary: #ffffff / #000000
 | assets   | Contains css, js and images folders       |
 | virtenv   | Contains include, lib, Scripts folders and virtual environment configurations of the app      |
 | requirements   | Contains base, development, staging, and production package requirements of the site       |
-|    |       |
+| utils   | Contains model and other base classes that can be inherited and used by other classes      |
+| coresite   | Contains the core features of the app in terms of migrations, models, views, and urls       |
 |    | Contains        |
 |    | Contains        |
+|    | Contains        |
+|    | Contains        |
+|    | Contains        |
+
+
 
 
 ### App Files and Their Descriptions
@@ -31,7 +37,7 @@ Second complementary: #ffffff / #000000
 | manage.py   | Django's command-line utility for administrative tasks making use of the dev, stage, or prod config files       |
 | db.sqlite3   | Contains the website database       |
 | wsgi.py   | The Web Server Gateway Interface presents a calling convention for web servers to forward requests to the website, making use of the dev, stage, or prod config files.        |
-| utils/model   | Contains        |
+| utils/model   | Contains a base class, MyModel to be inherited and used by every other model in the app       |
 |    | Contains        |
 |    | Contains        |
 |    | Contains        |
