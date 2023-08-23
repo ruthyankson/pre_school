@@ -31,7 +31,7 @@ Second complementary: #ffffff / #000000
 | manage.py   | Django's command-line utility for administrative tasks making use of the dev, stage, or prod config files       |
 | db.sqlite3   | Contains the website database       |
 | wsgi.py   | The Web Server Gateway Interface presents a calling convention for web servers to forward requests to the website, making use of the dev, stage, or prod config files.        |
-|    | Contains        |
+| utils/model   | Contains        |
 |    | Contains        |
 |    | Contains        |
 |    | Contains        |

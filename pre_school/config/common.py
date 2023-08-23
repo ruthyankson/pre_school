@@ -18,9 +18,12 @@ DJANGO_APPS = [
 
 THIRD_PARTY_APPS = [
     'debug_toolbar',
+    'django_extensions',
 ]
 
-APPS = []
+APPS = [
+    'coresite'
+]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + APPS
 
