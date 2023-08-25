@@ -19,8 +19,8 @@ Second complementary: #ffffff / #000000
 | requirements   | Contains base, development, staging, and production package requirements of the site       |
 | utils   | Contains model and other base classes that can be inherited and used by other classes      |
 | coresite   | Contains the core features of the app in terms of migrations, admin folder, models, views, and urls       |
-|    | Contains        |
-|    | Contains        |
+| coresite/models   | Contains blog, contact, event, policy, and team models      |
+| coresite/admin   | Contains blog, contact, event, policy, and team models that render them the form of lists       |
 |    | Contains        |
 |    | Contains        |
 |    | Contains        |
