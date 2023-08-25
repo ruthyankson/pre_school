@@ -18,7 +18,7 @@ Second complementary: #ffffff / #000000
 | virtenv   | Contains include, lib, Scripts folders and virtual environment configurations of the app      |
 | requirements   | Contains base, development, staging, and production package requirements of the site       |
 | utils   | Contains model and other base classes that can be inherited and used by other classes      |
-| coresite   | Contains the core features of the app in terms of migrations, models, views, and urls       |
+| coresite   | Contains the core features of the app in terms of migrations, admin folder, models, views, and urls       |
 |    | Contains        |
 |    | Contains        |
 |    | Contains        |
