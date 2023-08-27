@@ -21,6 +21,9 @@ Second complementary: #ffffff / #000000
 | coresite   | Contains the core features of the app in terms of migrations, admin folder, models, views, and urls       |
 | coresite/models   | Contains blog, contact, event, policy, and team models      |
 | coresite/admin   | Contains blog, contact, event, policy, and team models that render them the form of lists       |
+| coresite/views   | Contains about, blog, event, home, policy, team, and contact views       |
+| coresite/forms   | Contains contact form       |
+| templates   | Contains UI templates for the frontend of the app       |
 |    | Contains        |
 |    | Contains        |
 |    | Contains        |
